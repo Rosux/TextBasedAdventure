@@ -1,0 +1,340 @@
+Exam:
+
+0 Welcome to the best pilot exam in the whole universe. I am your host Dickinson today we are pleased to announce the start of the shortest flight exam. And we want you as our student to pick your own subject at the reception.
+option 1: Go to the reception.
+option 2: Wait and try to befriend people.
+option 3: Go the hangar and look at ships.
+option 4: Keep listening to Dickinson.
+
+    0,1: You have arrived at the reception
+    option 1: Choose your subjects.
+    option 2: Ask where the toilet is.
+        
+        0,1,1: You can choose between the following subject branches.
+        option 1: Meth, Botanical nature and Flying.
+        option 2: Meth, Flying and Languages.
+        option 3: Meth, Informatica and Flying.
+
+            0,1,1,1: You chose Meth, Botanical nature and Flying. You passed the practical exam. Next are the theoretical Questions. Question 1: Do penguins fly?
+            option 1: yes (go to 0,1,1,1,2)
+            option 2: no (go to 0,1,1,1,2)
+
+                0,1,1,1,2: Question 2: What poppy plant mostly used for?
+                option 1: Medical purposes. 
+                option 2: trading purposes.
+                option 3: recreational purposes
+
+            0,1,1,2: You chose Meth, Flying and Languages. You passed the practical exam. Next are the theoretical Questions. Question 1: Do you ever pick your nose when you think nobody is watching?
+            option 1: yes (go to 0,1,1,2,2)
+            option 2: no (go to 0,1,1,2,2)
+
+                0,1,1,2,1: Question 2: muraho mute mukora abantu
+                option 1: byiza (yes)
+                option 2: oya (no)
+
+            0,1,1,3: You chose Meth, Informatica and Flying. You chose Informatica really? Are you mad. Question 1: What did jesse wanna do?
+            option 1: Dance
+            option 2: Cook
+
+                0,1,1,3,1: Question 2: what is x in: "x=1; x+=x++;"?
+                option 1: x=4
+                option 2: x=6
+                option 3: x=3
+                
+        0,1,2: After going to the toilet you arrived at the main hall. Where mister Dickinson is still talking.
+        option 1: Ignore him and go back to the reception. 
+        0,1,2,1: (Go to 0,1,1)
+        option 2: Keep listening.
+
+		        0,1,2,2: you kept listening but nothing important came out of his mouth.
+       		    option 1: Go to reception and choose your subject. 
+                0,1,2,2,1: (Go to 0,1,1)
+
+	0,2: You waited for 1 hour but no one came to talk to you. You should have realized you were destined to be a loner from the beginning. Sigh 눈_눈
+    option 1: Go to reception and choose your subject.
+        0,2,1: (Go to 0,1,1)
+
+	0,3: You took too long looking at the beautifull ships that you almost forgot to choose your subjects. (¬_¬)
+    option 1: Go to reception and choose your subject. 
+    0,3,1: (Go to 0,1,1)
+
+    0,4: You kept listening but nothing important came out of his mouth.
+    option 1: Go to the reception and choose your subject. 
+    0,4,1: (Go to 0,1,1)
+
+
+
+
+Xarpoh
+
+1: You land on a planet called Xarpoh, the people living there ask for your help to defend against invaders.
+option 1: You help the people of Xarpoh.
+option 2: You help the invaders take over Xarpoh.
+option 3: You leave as fast as you can.
+
+    1,1: You help the people but the invaders are too strong.
+    option 1: Leave as fast as you can in your space ship
+    option 2: Keep fighting the invaders
+    option 3: You steal some supplies from Xarpoh and leave the planet
+
+        1,1,1: You left the planet safely and got away.
+        1,1,2: The invaders are too strong and kill you.
+        1,1,3: (gain item) You stole some stuff and got away safely.
+
+    1,2: You fly towards the invaders and greet them, they don't mind the help and welcome you to their ship. They ask you to help them in strategy.
+    option 1: Recommend a suprise attack from the inside out.
+    option 2: Recommend a massive push going straight for their main defenses.
+
+        1,2,1: The suprise attack failed drasticly, you luckily didn't go with them but they are now mad at you and chase you out of the system.
+        1,2,2: The attack worked and you and the invaders took over the planet. Now branded as warlord you proceed on your adventures.
+        
+    1,3: You leave the planet Xarpoh as fast as you can but the invaders are following your every move.
+    option 1: Shoot at the invaders.
+    option 2: Keep flying away.
+
+        1,3,1: You shoot at the enemies but miss every shot. They got scared and stopped the pursuit.
+        1,3,2: You kept flying away. You have no idea where they are and got away safely for now.
+
+
+
+
+Gannon:
+
+2: You landed in an icy biome in search of food and happen to come across the inhabiants of the planet.
+option 1: Beg for food?
+option 2: Plunder and kill all inhabitants. 
+
+    2,1: The inhabitants are greedy and wont give you food no matter how much you beg.
+    option 1: You decide they are not worth begging to and kill and plunder them all
+    option 2: You have wasted too much time and decide to leave on an empty stomach in search of food.
+
+        2,1,2: After you left you stumble upon a cave where one of the inhabitants was mining resources.
+        option 1: You help him with mining.
+        option 2: You ask him for food and leave the planet with food for 1 week. 
+
+            2,1,2,1: After you mined together, You formed a great bond and get invited to eat at their home.
+            option 1. You eat your stomach full and leave while getting food for the journey and you get a teddy bear for along the way from their daughter. You leave the planet with enough food to last 2 weeks.
+            option 2. You still decide you want to murder and plunder everyone after all the hours you had to beg.
+                Go to option 2,2.
+
+    2,2. You plunder and kill everyone you see.
+    option 1. You plunder and murder everyone you see and leave with enough food to last 4 weeks.
+    option 2. You leave with the minimum requirements to survive out of guilt.
+
+
+
+
+
+Harlan: 
+
+3: You landed on a small island enriched in water. You don't see anything with your binoculars and decide to get on the island. You take out you water-meter and start taking samples of the water to see if it's drinkable. The water is drinkable.
+option 1: You fully fill the water-tank in your spaceship and decide to leave.
+option 2: While the water is filling you decide to explore the island.
+    
+    3,1: After filling the water you get in your spaceship and leave. 
+        go to 4:
+    
+    3,2: While exploring the island you get bit by a poisonous snake in you leg. You continue to explore more of the island in hope you find an antidote. Suddenly a 8 feet tall inhabitant is standing behind you.
+            
+        option 1: You muster up the courage to ask for help by pointing at the place where you got bit.
+        option 2: You get shocked and don't move an inch.
+
+            3,2,1: The inhabitants starts licking your leg at the place you got bit and puts something in your mouth. after that he start picking up leaves and vines and start dressing your leg. After dressing your wound the inhabitant leaves and you hurry back to your ship, Afraid you might get bitten again.
+
+            3,2,2: The inhabitant leaves after a while. and you hurry back to your ship.
+            Option 1: Leave the planet as fast as you can in hopes of finding civilization on another planet.
+            Option 2: Kill yourself.
+                3,2,2,1: while searching for a civilized planet you get struck by immense headache and start turning blue. Since you have no more option left you start bickering about your life while you are slowly dying. And think back about how you should have just asked the inhabitant if he knew a way to treat it. But you were to dumb and braindead to realise.
+                3,2,2,2: You ready your gun.
+                Option 1: Pull trigger.
+
+
+
+
+Ship:
+
+4: You leave planet Harlan and just autopilot through space on to the next planet. While autopiloting you decide to take a rest.
+option 1: Go to the sleeping chambers and take a nap.
+option 2: Go to the main hall and and lie down on a sofa.
+
+    4,1: You took a nap 
+    option 1: Eat.
+    option 2: Shower
+
+        4,1,1: After having eaten you decide to take a shower.
+        option 1: Shower
+            4,1,1,1: After taking a shower you decide to go to another planet.
+            option 1: Pilot the ship.
+
+        4,1,2: After having Showered you decide to eat.
+        option 1: eat
+            4,1,2,1: After having eaten you decide to go to another planet.
+            option 1: Pilot the ship.
+
+    4,2: After lying down on the sofa you decide to: 
+    option 1: Eat
+    option 2: Shower
+
+        4,2,1: After having eaten you decide to take a shower.
+        option 1: Shower
+            4,2,1,1: After taking a shower you decide to go to another planet.
+            option 1: Pilot the ship.
+
+        4,2,2: After having Showered you decide to eat.
+        option 1: eat
+            4,2,2,1: After having eaten you decide to go to another planet.
+            option 1: Pilot the ship.
+
+
+
+
+EB-57806G:
+
+5: After a long travel you arrive at the planet EB-57806G. The onboard computer tells you that it has 29 billion inhabitants living on this planet and one of the strongest security systems.
+option 1: Try to sneakily land on one of the landing pads.
+option 2: Request docking access using the onboard computer.
+    5,1: You got caught by the security. They bring you into a room for questioning. The first question they ask is 'Do you have a piloting license?'
+    option 1: No
+    option 2: Yes
+        5,1,1: Even if you did it wouldn't matter, we will lock you up anyway. Enjoy rotting away on Ezkbla the prison planet. They drag you off to one of the transport vehicles heading to Ezkbla prison. (go to 6)
+        5,1,2: So why would you sneak in? We will lock you up since your just kind of a creep. Enjoy rotting away on Ezkbla the prison planet. They drag you off to one of the transport vehicles heading to Ezkbla prison. (go to 6)
+
+    (you don't have a piloting license)
+    5,2: Your docking access got denied.
+    option 1: Try bribing them.
+    option 2: Force a landing on the landing pad.
+        (if your a warlord)
+        5,2,1: They realize you are a warlord and they become scared of you. They take your bribe and let you go free. You land your ship and step out taking in the fresh air.
+        (if your not a warlord)
+        5,2,1: (go to 5,1)
+        5,2,2: (go to 5,1)
+    
+    (you have a piloting license)
+    5,2: Your docking access is granted. Proceed to pad 69 for landing instructions. You land your ship and step out taking in the fresh air.
+    option 1: You go into the city and buy some food.
+    option 2: You stay near the landing pad watching over the city.
+        5,2,1: After buying some food you return to your ship and fly off into space.
+        5,2,2: A thief tries to steal your ship but you caught him in the act.
+        option 1: Kill the thief and hide the body.
+        option 2: Kill the thief and devour the body.
+            5,2,2,1: After killing the thief, you tried to hide the body as best as you can. (go to 5,1)
+            option 1: continue (go to 5,1)
+            5,2,2,2: You took the body to your ship and ate him bit by bit until only a small pile of bones was left. (go to 7)
+            option 1: continue (go to 7)
+
+
+
+
+Ezkbla:
+
+6: You found yourself on Ezkbla, a dreaded prison planet known for its unforgiving conditions and brutal guards. The planet's surface was a desolate wasteland, and the towering penitentiary complex loomed in the distance, surrounded by layers of security.
+Option 1: Attempt to escape.
+Option 2: Bide your time.
+    
+    6,1: Desperation and a desire for freedom gnawed at your every waking moment. You knew you had to make a daring escape from Ezkbla. There were two ways you could try:
+    option 1: Infiltrate the prison's underground network.
+    option 2: Incite a prison riot.
+
+        6,1,1: You had heard rumors of a secret network of tunnels and rebels hiding beneath the prison. With stealth and cunning, you decided to search for a way into it. you decided to incite a rebellion and escape the planet.
+        6,1,2: You incite a riot among the inmates, causing chaos that might distract the guards long enough for you to make your move and leave the planet with your ship.
+
+    6,2: Survival on Ezkbla was not just about escaping; it was about avoiding attention and staying alive. You chose to bide your time, keeping a low profile and observing the daily routines of the guards and prisoners.    
+    option 1: Forge alliances with other inmates.
+
+        6,2,1: You knew that having allies on the inside could be your ticket to survival and possibly escape. You started building connections with other prisoners, seeking those who shared your desire for freedom to then attempt to escape.
+        option 1: Betray your allies escape on your own.
+        option 2: Make a plan together with your allies to escape the prison.
+             
+            6,2,1,1: You give away important information to the guards and tell them about a group which is trying to escape. When the guards go searching for the inmates you sneak past the control room and make your way to the hangar and escape.
+
+            6,2,1,2: One of you allies smugled a phone in through their a**. with that phone you and your allies order a ton of dynamite and ask for it to be dropped near the prison so you can escape while the guards are distracted. while escaping you get sprayed by the guards.
+            option 1: Because you are the faster than your allies you outrun and betray them to escape alone.
+            option 2: Because you are the faster than your allies you outrun and open the door for them to escape.
+                
+                6,2,1,2,1: Since you are the fastest among your allies you close the door of the ship and escape on you own leaving your allies to die.
+                
+                6,2,1,2,2: since you arrived at the ship faster than your allies you leave the door open and provide supressing fire for you allies. The guards stopped supressive firing and started murdering your allies one by one leaving only you alive. Seeing them die in front of you triggerred effeminacy within you so you close the door and and escape, leaving your allies body in the cold.
+
+
+
+
+DeepSpace:
+
+7: You are calmly traveling in deep space, not a planet or star in sight. There is no light in this part of space. You encounter a stranded ship with people on board but no fuel left.
+option 1: Help them. 
+option 2: Slaughter them.
+    
+    7,1: You have decide to help the suvivors of the stranded ship. 
+    option 1: Give them a part of your fuel without docking.
+    option 2: Give them a part of your fuel while docking.
+        
+        7,1,1: You gave the stranded ship enough fuel to atleast make it to a busier part of space.
+        option 1: Leave deepspace. (go to 8)
+
+        7,1,2: You have docked your ship to theirs.
+        option 1: Invite them over for food.
+        option 2: Pull out your weapon to murder the men and sell the women as slaves to another planet.
+            
+            7,1,2,1: You invite them over for food. As you give them a warm greeting they pull out their taser and electrocute you and steal the ship. Luckily you have a gun in you pocket which they didn't seem to notice.
+            option 1: Give them your ship and live like a slave.
+            option 2: Murder the bloody thieves.
+                
+                7,1,2,1,2: You take out your gun and start spraying them whilst shouting for NOXUS. After murdering them you clean the ship and are ready to leave.
+                option 1: Quickly undock their ship and leave without looting.
+                option 2: Loot and leave.
+                    7,1,2,1,2,1: (go to 8)
+                    7,1,2,1,2,2: (go to 7,2,2)
+    
+            7,1,2,2: You enslaved the women and killed most of the men.
+            option 1: Loot their ship.
+            option 2: Leave the ship.
+                7,1,2,2,1: (go to 7,2,2)
+                7,1,2,2,2: (go to 8)
+
+
+    7,2: You dock to their ship. While smiling you invite them for food in the main hall. You brutally slaughter the people and loot a taser from one of their pockets.
+        option 1: Undock the ship and leave.
+        option 2: Loot their ship.
+            7,2,1: (go to 8)
+            7,2,2: You looted the ship and found 10 ship components.
+            option 1: Repair your own ship.
+            option 2: Leave deepspace.
+                7,2,2,1: You used 10 ship components to armor your ship.
+                option 1: Leave deepspace (go to 8)
+                7,2,2,2: (go to 8)
+
+8: You open a warpgate to leave deepspace. 
+option 1: initiate warpgate.    
+
+    8,1: just when you were going to press the button you feel an exhilirating pain in you lungs. You realise you dont have much oxygen left so you try to escape deepspace as fast as possible to find a planet to breath on.
+    option 1: search on map for a planet.
+    option 2: go as fast as possible in one direction.
+
+        8,1,1: You managed to find a small planet named Earth 100000 lightyears away from you. 
+        option 1: Initiate warpgate.
+
+            8,1,1,1: while warping your ship hits an astroid in between the warp gate slowing time. As you're trying to look for anything that works so you could potentialy fix the gate. but nothing seems work even the tv is frozen on the same news. even the water doesn't run and you dont feel anything anymore even the pain is gone now.
+            option 1: (go to 9).
+
+Death
+
+9: You lay there, on the floor of your ship. Dying alone in time and space. Time has been stopped for weeks now, its weird since only the other living beings have been affected. You are running out of food and time, even though you cant die you can still move and think. Existence is a terrible experience but infinite lives is even worse.
+option 1: Turn on tv.
+
+    9,1: You turn on the tv and sit down. The old news from 3 weeks ago is up. Its talking about some serial killer on the loose and the horrible acts they committed
+    option 1: Give it one last try.
+    option 2: Give up.
+        9,1,1: Do you really think that would work? You tried it over 500 times already why would it be different now? Are you going insane?
+        option 1: Try it anyway.
+        option 2: Give up.
+            9,1,1,1: (go to 9,2)
+            9,1,1,1: (go to 9,1,2)
+
+        9,1,2: You pick up your space laser and attempt to shoot yourself. Only to realize time has stopped and bullets wont move. What now? What will the player of my game do now?
+        option 1: Try to save yourself from this doom. Giving it one last try.
+        option 2: Give up.
+            9,1,1,1: (go to 9,2)
+            9,1,2,1: (go to 9,1,2)
+    9,2: You turn your ship around so that you are slowly getting pulled back into the wormhole, a painful experience but is it worth it? You wont know yet but if you return here again you certainly didn't learn your lesson.
+    option 1: ...
+        9,2,1: (go to 0)
